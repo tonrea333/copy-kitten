@@ -8,10 +8,9 @@ We'll be using CSS to get as close as we can to copying each of the three sectio
 
 ### Setup
 
-* Fork and clone this repo.
-* Run Live Server so you can see what's going on.
-* Code away.
-
+* Fork this repository on GitHub
+* In your command line, use git to clone your forked repo
+* Code away!
 
 ### Guidelines
 
