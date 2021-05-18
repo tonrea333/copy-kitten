@@ -13,6 +13,7 @@ We'll be using CSS to get as close as we can to copying each of the three sectio
 ### Guidelines
 
 * Each component you'll be copying has at least one image showing you what it's _supposed_ to look like. The header and button also have an image showing you what happens when you hover over each component.
+* Make at least one commit after finishing each component
 * You may have noticed that the `index.html` file has FOUR separate CSS files `link`ed in it. These are all being loaded in, and they're being kept separate so you can work in one and then the other, but all rules from any one CSS file apply to the ENTIRE page. That means you'll have to be a bit careful that they don't overlap; for example, your rules for the button shouldn't apply to the header! You can use the `class` and `id` attributes we've added to each to target specific elements without affecting others. You could also add your own to the elements in `index.html` if you don't like the ones we have there!
 * You won't need to edit the `style.css` file at all
 * DO edit the three CSS files, `button.css`, `header.css`, and `table.css`. They're currently empty, but that's where you come in!
