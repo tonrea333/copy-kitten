@@ -2,7 +2,7 @@
 
 ### Introduction
 
-We'll be using CSS to get as close as we can to copying each of the three sections of the page, the button, header, and table.
+We'll be using CSS to get as close as we can to copying each of the three sections of the page: the button, header, and table.
 
 ### Setup
 
