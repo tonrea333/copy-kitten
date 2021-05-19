@@ -1,0 +1,27 @@
+.box1 {
+    height: 200px;
+    width: 100%;
+    border: solid white 2px;
+   
+}
+.tabbox {
+    height: 66px;
+    width: 100%;
+    background-color: #404148;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+
+
+}
+.btn-group .button1 {
+    background-color: #404148;
+    color: white;
+    font-size: 20px;
+    border: none;
+    cursor: grab;
+}
+  
+.btn-group .button1:hover {
+color: #499788;
+}
