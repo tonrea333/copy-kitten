@@ -1,0 +1,32 @@
+
+.box {
+    height: 200px;
+    width: 40%;
+    border: solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.button {
+    display: inline;
+    padding: 15px 25px;
+    font-size: 23px;
+    color: white; 
+    border-radius: 20px;
+    font-size: 30px;
+    background-color: #3486C0;
+    box-shadow: #1F5275 .001px 7px;
+}
+
+.button:hover {
+    background-color: #3fa1e8;
+    cursor:grab;
+    box-shadow: none;
+}
+
+
+
+
+   
+ 
