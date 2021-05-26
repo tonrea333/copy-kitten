@@ -1,0 +1,8 @@
+.box2 {
+    height: 90px;
+    width: 30%;
+    border: solid green 2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
